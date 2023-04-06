@@ -1,7 +1,6 @@
 # POS-with-NetworkX-in-articles-
 
-#ِ Alaa Ahmed Elshafei
-
+Author:ِ Alaa Ahmed Elshafei
 
 
 # Introduction:
